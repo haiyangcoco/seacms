@@ -1,0 +1,1 @@
+<?php  $weburl = "www.seacms.la"; $token = "123456789";  ?>
